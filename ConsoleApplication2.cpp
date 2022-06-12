@@ -21,6 +21,8 @@ int main()
     std::cout << name. length() << "\n";
     std::cout << age. length() << "\n";
 
+    std::cout << char (name.front()) << " " << char (age.back()) << std::endl;
+
 
     
 }
